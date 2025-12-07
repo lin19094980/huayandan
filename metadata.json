@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 化验单AI助手",
+  "description": "智能医疗化验单AI解读助手。上传化验单图片或PDF，快速获取专业解读、异常项分析及健康建议。另外，可以存储化验单，调取过去化验单进行对比。",
+  "requestFramePermissions": []
+}
